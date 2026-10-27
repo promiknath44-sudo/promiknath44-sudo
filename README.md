@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode" />
 </p>
 
 ### 🚀 Featured Projects
